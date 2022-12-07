@@ -1,0 +1,8 @@
+localhost:8080/saveEmployee
+{
+    "name":"Hari",
+    "dept":"software",
+    "salary":600000
+}
+localhost:8080/getAllEmployees
+localhost:8080/getEmployeeByDept/software
